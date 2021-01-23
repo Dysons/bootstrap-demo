@@ -1,0 +1,5 @@
+@font-face {
+	font-family:zuoyeFont_mathFont;src:url(resource/mathFont_45cb6c2.eot?#iefix);src:url(resource/mathFont_45cb6c2.eot?#iefix) format('embedded-opentype'),url(resource/mathFont_84f42a9.woff2) format('woff2'),url(resource/mathFont_b78f80a.woff) format('woff'),url(resource/mathFont_f30c886.ttf) format('truetype'),url(resource/mathFont_7554296.otf) format('opentype'),url(resource/mathFont_606a261.svg) format('svg');font-weight:400;font-style:normal
+}
+
+.enw{font-family: zuoyeFont_mathFont;}
